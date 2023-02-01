@@ -1,0 +1,9 @@
+[package]
+name = "bull-be-like-cow-mut"
+version = "0.1.0"
+description = "`Cow`'s non-clone-bearing counterpart with the power of mutation."
+categories = ["rust-patterns"]
+repository = "https://github.com/Enyium/bull-be-like-cow-mut-rs"
+documentation = "https://docs.rs/bull-be-like-cow-mut"
+license = "MIT OR Apache-2.0"
+edition = "2021"
